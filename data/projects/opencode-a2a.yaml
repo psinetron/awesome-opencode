@@ -1,4 +1,4 @@
-name: Opencode A2A Server
-repo: https://github.com/Intelligent-Internet/opencode-a2a-server
+name: Opencode A2A
+repo: https://github.com/Intelligent-Internet/opencode-a2a
 tagline: Standardized A2A adapter layer for OpenCode.
 description: An adapter layer that exposes OpenCode as a standardized Agent-to-Agent service, enabling seamless cross-agent collaboration and automated workflows.
