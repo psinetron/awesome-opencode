@@ -1,5 +1,5 @@
 name: Ejentum Reasoning Harness
 repo: https://github.com/ejentum/ejentum-mcp
-tagline: Cognitive scaffolds (reasoning, code, anti-deception, memory) injected before generation
-description: MCP server exposing four cognitive harness tools. Each call returns an engineered scaffold (named failure pattern, executable procedure, suppression vectors that block the obvious shortcut, falsification test for self-verification) the agent ingests before generating, addressing attention decay, sycophantic collapse, and hallucination drift. Free tier 100 calls, no card. MIT.
+tagline: Four cognitive scaffold tools (reasoning, code, anti-deception, memory) the agent can call on demand
+description: MCP server exposing four cognitive harness tools the agent can call when the task matches. Each call returns an engineered scaffold (named failure pattern, executable procedure, suppression vectors that block the obvious shortcut, falsification test for self-verification) the agent ingests before responding, addressing attention decay, sycophantic collapse, and hallucination drift. The harness is invoked on demand, not auto-run on every turn. Free tier 100 calls, no card. MIT.
 homepage: https://ejentum.com
