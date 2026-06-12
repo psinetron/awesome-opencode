@@ -686,6 +686,20 @@
 </details>
 
 <details>
+  <summary><b>Charcoal</b> <img src="https://badgen.net/github/stars/VyomJain6904/charcoal-theme" height="14"/> - <i>Deep-black grayscale theme for OpenCode — no hues, all shades of gray</i></summary>
+  <blockquote>
+    Charcoal is a pure grayscale theme for OpenCode with a near-black (#0d0d0d) background.
+All 56 theme color keys use shades of gray — no hues anywhere. Designed to match a
+minimal dark terminal aesthetic.
+
+Also available for bat and Ghostty in the same repository.
+
+    <br><br>
+    <a href="https://github.com/VyomJain6904/charcoal-theme">🔗 <b>View Repository</b></a>
+  </blockquote>
+</details>
+
+<details>
   <summary><b>Lavi</b> <img src="https://badgen.net/github/stars/b0o/lavi" height="14"/> - <i>A soft and sweet colorscheme for Opencode and 15+ other apps</i></summary>
   <blockquote>
     A soft, sweet dark theme for Opencode with rich purple tones and carefully tuned syntax and diff colors. Part of the Lavi colorscheme family, which also provides matching themes for Neovim, Alacritty, Ghostty, Kitty, Wezterm, Zellij, and other tools, with Nix flake and home-manager support.
