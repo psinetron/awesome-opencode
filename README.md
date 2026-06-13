@@ -350,6 +350,15 @@
 </details>
 
 <details>
+  <summary><b>Opencode Host Notify Bridge</b> <img src="https://badgen.net/github/stars/Zaradacht/opencode-host-notify-bridge" height="14"/> - <i>Devcontainer notifications bridged back to the host</i></summary>
+  <blockquote>
+    OpenCode plugin and host helper that forward permission, question, and idle notifications from devcontainers to the host machine for desktop alerts and sound.
+    <br><br>
+    <a href="https://github.com/Zaradacht/opencode-host-notify-bridge">🔗 <b>View Repository</b></a>
+  </blockquote>
+</details>
+
+<details>
   <summary><b>Opencode Ignore</b> <img src="https://badgen.net/github/stars/lgladysz/opencode-ignore" height="14"/> - <i>Ignore files based on pattern</i></summary>
   <blockquote>
     Plugin to ignore directory/file based on pattern.
@@ -436,6 +445,15 @@
     Enables syncing global opencode configurations across machines with public/private visibility options.
     <br><br>
     <a href="https://github.com/iHildy/opencode-synced">🔗 <b>View Repository</b></a>
+  </blockquote>
+</details>
+
+<details>
+  <summary><b>OpenCode Token Tracker</b> <img src="https://badgen.net/github/stars/eserete/opencode-token-tracker" height="14"/> - <i>Real-time token usage, cost, and latency tracking for every AI request in OpenCode</i></summary>
+  <blockquote>
+    Displays a toast after each AI response with input/output tokens, cache hits, reasoning tokens, response latency, per-message cost, cumulative session cost, model identifier, and request count. Automatically aggregates tokens from subagent sessions spawned via the Task tool. Zero config — drop the file in and it works.
+    <br><br>
+    <a href="https://github.com/eserete/opencode-token-tracker">🔗 <b>View Repository</b></a>
   </blockquote>
 </details>
 

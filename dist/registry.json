@@ -463,6 +463,25 @@
     "tags": []
   },
   {
+    "productId": "opencode-host-notify-bridge",
+    "type": "plugins",
+    "displayName": "Opencode Host Notify Bridge",
+    "repoUrl": "https://github.com/Zaradacht/opencode-host-notify-bridge",
+    "tagline": "Devcontainer notifications bridged back to the host",
+    "description": "OpenCode plugin and host helper that forward permission, question, and idle notifications from devcontainers to the host machine for desktop alerts and sound.",
+    "scope": [
+      "global"
+    ],
+    "tags": [
+      "devcontainer",
+      "notifications",
+      "zed",
+      "macos"
+    ],
+    "homepageUrl": "https://github.com/Zaradacht/opencode-host-notify-bridge",
+    "installation": "Add the plugin to `~/.config/opencode/opencode.json`:\n\n```json\n{\n  \"$schema\": \"https://opencode.ai/config.json\",\n  \"plugin\": [\"opencode-host-notify-bridge\"]\n}\n```\n\nThen configure `host-notify-bridge.json` and start the host helper:\n\n```bash\nopencode-host-notify-server\n```\n"
+  },
+  {
     "productId": "opencode-ignore",
     "type": "plugins",
     "displayName": "Opencode Ignore",
@@ -637,6 +656,18 @@
     "repoUrl": "https://github.com/iHildy/opencode-synced",
     "tagline": "Sync configs across machines",
     "description": "Enables syncing global opencode configurations across machines with public/private visibility options.",
+    "scope": [
+      "global"
+    ],
+    "tags": []
+  },
+  {
+    "productId": "opencode-token-tracker",
+    "type": "plugins",
+    "displayName": "OpenCode Token Tracker",
+    "repoUrl": "https://github.com/eserete/opencode-token-tracker",
+    "tagline": "Real-time token usage, cost, and latency tracking for every AI request in OpenCode",
+    "description": "Displays a toast after each AI response with input/output tokens, cache hits, reasoning tokens, response latency, per-message cost, cumulative session cost, model identifier, and request count. Automatically aggregates tokens from subagent sessions spawned via the Task tool. Zero config — drop the file in and it works.",
     "scope": [
       "global"
     ],
