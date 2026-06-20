@@ -931,6 +931,15 @@ Also available for bat and Ghostty in the same repository.
 </details>
 
 <details>
+  <summary><b>CodeWalk</b> <img src="https://badgen.net/github/stars/verseles/codewalk" height="14"/> - <i>Native cross-platform Flutter client for OpenCode server mode</i></summary>
+  <blockquote>
+    A fast, native Flutter client for OpenCode server mode with realtime streaming chat, speech-to-text on all platforms, multi-server profiles, model selection, and a Material 3 responsive UI for Linux, macOS, Windows, Web, and Android.
+    <br><br>
+    <a href="https://github.com/verseles/codewalk">🔗 <b>View Repository</b></a>
+  </blockquote>
+</details>
+
+<details>
   <summary><b>Codex Proxy Server</b> <img src="https://badgen.net/github/stars/unluckyjori/Codex-Proxy-Server" height="14"/> - <i>Local API proxy</i></summary>
   <blockquote>
     A proxy server that provides a local API proxy for Codex/ChatGPT-like models.
